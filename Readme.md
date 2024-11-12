@@ -32,7 +32,7 @@ Sigue estos pasos para configurar y ejecutar el proyecto:
 1. Clona este repositorio en tu máquina local:
 
    ```bash
-   git clone <URL_DEL_REPOSITORIO>
+   git clone C:/Users/allan/OneDrive/Escritorio/DB.gestion-tarea/.git/
 
 2. Navega a la carpeta del proyecto:
 
